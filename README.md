@@ -1,5 +1,7 @@
 # PyFirenze Meetup
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jackdbd/python-firenze-meetup-202-02-06/master)
+
 ## Installation
 
 If you don't already have it, download [Anaconda](https://www.anaconda.com/distribution/) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html).
