@@ -1,6 +1,6 @@
 # PyFirenze Meetup
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jackdbd/python-firenze-meetup-202-02-06/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jackdbd/python-firenze-meetup-2020-02-06/master)
 
 ## Installation
 
