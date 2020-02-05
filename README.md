@@ -6,6 +6,8 @@
 
 ![A map of food inspections in San Francisco in 2016](https://raw.githubusercontent.com/jackdbd/python-firenze-meetup-2020-02-06/master/images/food-inspections-in-sf.png "Number of food inspections in San Francisco, 2016 (aggregated by ZIP code)")
 
+![Facet grid of the reaction times for sleep-deprived subjects over 10 days](https://raw.githubusercontent.com/jackdbd/python-firenze-meetup-2020-02-06/master/images/sleep-deprivation-altair-facet-grid.png "Reaction times for sleep-deprived subjects over 10 days")
+
 ## Installation
 
 If you don't already have it, download [Anaconda](https://www.anaconda.com/distribution/) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html).
